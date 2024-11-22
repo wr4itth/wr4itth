@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Ferreira 👋
 
 <div style="display: inline_block" >
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" ><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="mailto:caiodumontfer@gmail.com" target="_blank" ><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://www.instagram.com/c4iiin/" target="_blank" ><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/caio-henrique-dumont-ferreira-3b9b27339/" target="_blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
@@ -31,3 +31,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wr4itth/wr4itth/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wr4itth/wr4itth/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br />
+<br />
+
+🗃️ Principais Repositórios
+
+<div style="display: inline_block" >
+  <a href="https://github.com/wr4itth/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wr4itth&repo=Elysium&theme=dark&hide_border=true" />
+  </a>
+</div>
