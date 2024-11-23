@@ -37,7 +37,7 @@
 ### Principais Repositórios
 
 <div style="display: inline_block" >
-  <a href="https://github.com/wr4itth/github-readme-stats">
+  <a href="https://github.com/wr4itth/Elysium">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wr4itth&repo=Elysium&theme=dark&hide_border=true" />
   </a>
 </div>
